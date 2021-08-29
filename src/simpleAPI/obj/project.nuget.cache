@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O0UFXZ6NnsuB3Wtvl1d+bzTDmuc3CF6qLaDPiAS+ZyFWAc+MhpjBOXhOIYEiF6sX3wt2TYy4ydwewGqJjtOBfQ==",
+  "success": true,
+  "projectFilePath": "C:\\vms\\devops\\2\\src\\simpleAPI\\simpleAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omodotun\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\omodotun\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\omodotun\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\omodotun\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\omodotun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\omodotun\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
